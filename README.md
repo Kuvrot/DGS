@@ -1,4 +1,6 @@
 # DGS
+![DGS_cover](https://github.com/Kuvrot/DGS/assets/23508114/feee380f-b00c-4a93-bd21-10f44c91071d)
+
 A very simple and generic shooter made in unity based in a dystopian world.
 
 Warning: there is a bug when the game starts that doesn't hide your cursor, to solve this just press [ESC] and it will solve.
