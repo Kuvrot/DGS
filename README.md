@@ -5,6 +5,10 @@ A very simple and generic shooter made in unity based in a dystopian world.
 
 Warning: there is a bug when the game starts that doesn't hide your cursor, to solve this just press [ESC] and it will solve.
 
+![BNQnEp](https://github.com/Kuvrot/DGS/assets/23508114/ef92fd0b-b8bf-4ce8-9f45-f9ab43290746)
+
+https://www.youtube.com/embed/NDBDz07miHw
+
 Credits:
 
 Developed by Jaime Arturo
@@ -17,4 +21,3 @@ And if you are wondering why its called "DGS" it's for Dystopian Generic Shooter
 
 You can test it here: https://deadprocess.itch.io/dgs or https://gamejolt.com/games/dgs/775376
 
-Video: https://youtu.be/NDBDz07miHw
